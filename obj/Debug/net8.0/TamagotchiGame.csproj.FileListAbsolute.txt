@@ -1,0 +1,14 @@
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\bin\Debug\net8.0\TamagotchiGame.exe
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\bin\Debug\net8.0\TamagotchiGame.deps.json
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\bin\Debug\net8.0\TamagotchiGame.runtimeconfig.json
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\bin\Debug\net8.0\TamagotchiGame.dll
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\bin\Debug\net8.0\TamagotchiGame.pdb
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\obj\Debug\net8.0\TamagotchiGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\obj\Debug\net8.0\TamagotchiGame.AssemblyInfoInputs.cache
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\obj\Debug\net8.0\TamagotchiGame.AssemblyInfo.cs
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\obj\Debug\net8.0\TamagotchiGame.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\obj\Debug\net8.0\TamagotchiGame.dll
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\obj\Debug\net8.0\refint\TamagotchiGame.dll
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\obj\Debug\net8.0\TamagotchiGame.pdb
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\obj\Debug\net8.0\TamagotchiGame.genruntimeconfig.cache
+C:\Users\Isaac\Documents\Projects\C#\TamagotchiGame\obj\Debug\net8.0\ref\TamagotchiGame.dll
